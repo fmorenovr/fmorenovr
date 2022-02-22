@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I am a Data Scientist in the [Escola de Matemática Aplicada (EMAp)](https://emap.fgv.br/) at the [Fundação Getúlio Vargas (FGV)](https://portal.fgv.br/), my research lies at the intersection of Urban Perception, Deep Learning, and Interpretability Machine Learning.
+
+👯 I do research in the [Visual Data Science Lab research group](https://github.com/visual-ds).
+
+💬 I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images and main perceptual features extraction for applications in urban computing.
+
