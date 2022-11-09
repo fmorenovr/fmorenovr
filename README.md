@@ -21,14 +21,6 @@ Here are some ideas to get you started:
 
 💬 I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images and main perceptual features extraction for applications in urban computing.
 
-
-### Tech & Tools Preference
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Colab-yellowgreen?style=flat&logo=google%20colab&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Django-logo">
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmorenovr&langs_count=10&theme=tokyonight&layout=compact" alt="fmorenovr" /></p>
-<img align="right" alt="fmorenovr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fmorenovr&show_icons=true&hide_border=true&theme=tokyonight" />
-
 <br />
 
 ### Let's keep in touch:
@@ -40,6 +32,15 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+### Tech & Tools Preference
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Colab-yellowgreen?style=flat&logo=google%20colab&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Django-logo">
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmorenovr&langs_count=10&theme=tokyonight&layout=compact" alt="fmorenovr" /></p>
+<img align="right" alt="fmorenovr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fmorenovr&show_icons=true&hide_border=true&theme=tokyonight" />
+
+
 
 [twitter]: https://twitter.com/fmorenovr
 [instagram]: https://www.instagram.com/famveer/
