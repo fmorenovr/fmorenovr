@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I am a Data Scientist in the [Escola de Matemática Aplicada (EMAp)](https://emap.fgv.br/) at the [Fundação Getúlio Vargas (FGV)](https://portal.fgv.br/), my research lies at the intersection of Urban Perception, Deep Learning, and Interpretability Machine Learning.
+Currently, I am working on Multimodal Retrieval-Augmented Generation (RAG) systems and Vision-Language Models (VLMs), with a strong focus on advancing multimodal large language models (MLLMs) and Explainable AI. My research explores how visual and textual information can be effectively integrated to build intelligent systems that are both accurate and interpretable.
 
-👯 I do research in the [Visual Data Science Lab research group](https://github.com/visual-ds).
+In particular, I am interested in developing efficient and robust models for analyzing and understanding human perceptions from street view imagery. This includes investigating how urban environments are perceived in terms of safety, liveliness, aesthetics, accessibility, and overall quality of life. By extracting meaningful perceptual and semantic features from large-scale visual data, my work aims to support applications in urban computing, smart cities, and data-driven urban planning.
 
-💬 I am especially interested in building efficient, and robust models that can perform analyzing, and understanding human perception from street images and main perceptual features extraction for applications in urban computing.
+More broadly, I am motivated by the challenge of creating multimodal AI systems that can reason across different data modalities while remaining transparent, explainable, and adaptable to real-world scenarios.
 
 <br />
 
